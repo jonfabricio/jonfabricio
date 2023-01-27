@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello there! I'm Jônatas :)
 
-<!--
-**jonfabricio/jonfabricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Working on exercises to learn how to code better
+- 🗿 I’m currently learning C
+- ☠️ Currently strungling with it
+
+<div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonfabricio&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonfabricio&layout=compact&show_icons=true&theme=dracula)](https://github.com/jonfabricio/github-readme-stats)
+
+</div>
+
+
+##
+
+
+
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jon.C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+
+</div>
+
+
+
