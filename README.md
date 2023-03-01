@@ -10,8 +10,7 @@
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonfabricio&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonfabricio&layout=compact&show_icons=true&theme=dracula)](https://github.com/jonfabricio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonfabricio&show_icons=true&theme=dracula))](https://github.com/jonfabricio/github-readme-stats)
 
 </div>
 
