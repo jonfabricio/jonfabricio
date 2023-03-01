@@ -24,6 +24,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jon.C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+   <img align="center" alt="jonfabricio"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+                                                                                                                                                   
 
 </div>
 
