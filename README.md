@@ -4,7 +4,6 @@
 
 
 - 🔭 Working on exercises to learn how to code better
-- 🗿 I’m currently learning C and other languages
 - ☠️ Currently strungling with it
 
 <div>
